@@ -28,7 +28,7 @@ body:
     id: selfhosting
     attributes:
       label: Self-hosting
-      description: Are you using the official Ballsdex bot or hosting your own instance?
+      description: Are you using the official Youtuber's Dex or hosting your own instance?
       options:
         - Official Youtuber's Dex
         - Self-hosting
