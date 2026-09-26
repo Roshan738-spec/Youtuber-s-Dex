@@ -8,7 +8,7 @@ Feel free to include screenshots of the new feature if applicable!
 If the changes resolve an issue, please include "Resolves #XX" where "XX" is the issue number.
 -->
 
-### Were the changes in this PR tested?
+### Were the changes in this DEX tested?
 
 <!--
 Answer yes or no if you tested your changes locally.
