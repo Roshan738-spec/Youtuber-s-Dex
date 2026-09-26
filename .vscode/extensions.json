@@ -7,6 +7,6 @@
         "batisteo.vscode-django",
         "tamasfe.even-better-toml",
         "redhat.vscode-yaml",
-        "charliermarsh.ruff",
+        "charliermarsh.ruff"
     ]
 }
