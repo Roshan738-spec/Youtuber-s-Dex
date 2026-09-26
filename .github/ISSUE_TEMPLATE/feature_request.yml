@@ -30,7 +30,7 @@ body:
       label: Self-hosting
       description: Are you using the official Ballsdex bot or hosting your own instance?
       options:
-        - Official Ballsdex bot
+        - Official Youtuber's Dex
         - Self-hosting
     validations:
       required: true
